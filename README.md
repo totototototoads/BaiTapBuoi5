@@ -1,3 +1,4 @@
+vid demo: https://drive.google.com/drive/folders/1Qg2Riv_cY8YbIkmmbEQJh-ekuGG6p38i?usp=sharing
 # Ứng dụng Quản lý Khóa học (Course Management App)
 
 Ứng dụng di động Android (Java Native) quản lý khóa học trực tuyến kết nối REST API MockAPI.io, phục vụ bài tập lập trình Mobile App.
