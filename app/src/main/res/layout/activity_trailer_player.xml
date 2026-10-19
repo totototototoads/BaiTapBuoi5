@@ -12,7 +12,6 @@
         android:layout_height="?attr/actionBarSize"
         android:background="#111111"
         app:layout_constraintTop_toTopOf="parent"
-        app:navigationIcon="@android:drawable/ic_menu_revert"
         app:title="Xem Video Trailer"
         app:titleTextColor="@color/white" />
 

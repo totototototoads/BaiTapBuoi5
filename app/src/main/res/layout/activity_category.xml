@@ -16,7 +16,6 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="@color/primary_blue"
-            app:navigationIcon="@android:drawable/ic_menu_revert"
             app:title="Quản lý Danh mục"
             app:titleTextColor="@color/white" />
 
